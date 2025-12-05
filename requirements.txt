@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langgraph
+requests
+python-dotenv
+zhipuai
+
+langsmith # 开启多agent流程图
+
+langchain-community
+langchain-chatglm
+fastapi
+uvicorn
+pydantic
